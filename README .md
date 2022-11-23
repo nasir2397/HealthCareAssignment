@@ -10,14 +10,14 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-Data preprocessing
-Concept identification
-Defining the features for CRF
-Getting the features words and sentences
-Defining input and target variables
-Building the model
-Evaluating the model
-Identifying the diseases and predicted treatment using a custom NER
+-Data preprocessing
+-Concept identification
+-Defining the features for CRF
+-Getting the features words and sentences
+-Defining input and target variables
+-Building the model
+-Evaluating the model
+-Identifying the diseases and predicted treatment using a custom NER
 
 ## Technologies Used
 Google Colab
